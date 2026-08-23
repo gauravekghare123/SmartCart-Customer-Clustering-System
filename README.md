@@ -1,0 +1,1 @@
+An unsupervised machine learning-based customer segmentation system designed to identify meaningful customer groups based on purchasing behaviour, engagement, spending patterns, and customer characteristics. The project analyzes 2,240 customer records with 22 behavioural attributes using clustering and dimensionality reduction techniques.
